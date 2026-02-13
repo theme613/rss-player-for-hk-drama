@@ -1,0 +1,139 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:jwplayer="http://developer.longtailvideo.com/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rssplayer="https://rssvideoplayer.com/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+	<title>Asian Channel</title>
+	<link>https://allrss.se/dramas/</link>
+	
+	<item>
+	    <title>All Channel</title>
+	    <enclosure url="http://allrss.se/rss/all.xml" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='https://allrss.se/dramas/play.png' />]]></description>
+		<guid isPermaLink="false">dramas:all</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>	 
+	</item>	
+	<item>
+	    <title>Recently</title>
+	    <enclosure url="https://allrss.se/dramas/?channel=recently&amp;nocache=1" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='https://allrss.se/dramas/play.png' />]]></description>
+		<guid isPermaLink="false">dramas:recently</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>				 
+	<item>
+	    <title>HK Drama</title>
+	    <enclosure url="https://allrss.se/dramas/?channel=hk-drama&amp;nocache=1" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='http://allrss.se/dramas/hk.jpg' />]]></description>
+		<guid isPermaLink="false">dramas:hkd</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>	
+	<item>
+	    <title>HK Variety &amp; News</title>
+	    <enclosure url="https://allrss.se/dramas/?channel=hk-variety&amp;nocache=1" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='http://allrss.se/dramas/hkv.jpg' />]]></description>
+		<guid isPermaLink="false">dramas:hks</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>
+	<item>
+	<title>今日更新 - 暴风影视</title><description><![CDATA[<img src='http://allrss.se/dramas/sn.jpg' />]]></description><enclosure url="http://allrss.se/bz.php" type="application/rss+xml"/>
+	<guid isPermaLink="false">dramas:bz</guid>
+	<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+	<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>
+	<item>
+	    <title>US TV Series (RAW)</title>
+	    <enclosure url="http://us.vrss.me/ustvraw.php" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='http://allrss.se/dramas/us.jpg' />]]></description>
+		<guid isPermaLink="false">dramas:usr</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>	
+	<item>
+	    <title>US TV Series</title>
+	    <enclosure url="https://allrss.se/dramas/?channel=us-drama&amp;nocache=1" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='http://allrss.se/dramas/us.jpg' />]]></description>
+		<guid isPermaLink="false">dramas:us</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>					
+	<item>
+	    <title>Korean Drama</title>
+	    <enclosure url="https://allrss.se/dramas/?subchannel=kr-rss&amp;nocache=1" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='http://allrss.se/dramas/ko.jpg' />]]></description>
+		<guid isPermaLink="false">dramas:k</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>				
+	<item>
+	    <title>Korean Variety</title>
+	    <enclosure url="https://allrss.se/dramas/?channel=korean-variety&amp;nocache=1" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='http://allrss.se/dramas/kov.jpg' />]]></description>
+		<guid isPermaLink="false">dramas:kv</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>	
+	<item>
+	    <title>Chinese Drama</title>
+	    <enclosure url="https://allrss.se/dramas/?subchannel=cn-rss&amp;nocache=1" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='http://allrss.se/dramas/cn.jpg' />]]></description>
+		<guid isPermaLink="false">dramas:c</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>		
+	<item>
+	    <title>Taiwanese Drama</title>
+	    <enclosure url="https://allrss.se/dramas/?subchannel=tw-rss&amp;nocache=1" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='http://allrss.se/dramas/tw.jpg' />]]></description>
+		<guid isPermaLink="false">dramas:tw</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>	
+	<item>
+	    <title>Janpanese Drama</title>
+	    <enclosure url="https://allrss.se/dramas/?subchannel=jp-rss&amp;nocache=1" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='https://allrss.se/dramas/play.png' />]]></description>
+		<guid isPermaLink="false">dramas:j</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>							
+	<item>
+	    <title>Movies</title>
+	    <enclosure url="https://allrss.se/dramas/?channel=movies&amp;nocache=1" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='https://allrss.se/dramas/play.png' />]]></description>
+		<guid isPermaLink="false">dramas:m</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>
+	<item>
+	    <title>Anime #1</title>
+	    <enclosure url="https://allrss.se/dramas/?channel=anime&amp;nocache=1" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='https://allrss.se/dramas/play.png' />]]></description>
+		<guid isPermaLink="false">dramas:a1</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>
+        <item>
+            <title>Anime #2</title>
+            <enclosure url="http://allrss.se/animeplustv.php" type="application/rss+xml" bookmark="false"/>
+            <description><![CDATA[<img src='https://allrss.se/dramas/play.png' />]]></description>
+			<guid isPermaLink="false">dramas:a2</guid>
+			<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+			<itunes:image href="https://allrss.se/dramas/play.png"/>
+        </item>	
+	<item>
+	    <title>Anime #3 (Newest anime)</title>
+	    <enclosure url="http://allrss.se/anime.php" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='https://allrss.se/dramas/play.png' />]]></description>
+		<guid isPermaLink="false">dramas:a3</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+	</item>				
+	<item>
+	    <title>HK Drama (English Subtitles)</title>
+	    <enclosure url="https://allrss.se/dramas/?channel=hk-drama-englishsubtitles&amp;nocache=1" type="application/rss+xml" bookmark="false"/>
+	    <description><![CDATA[<img src='http://allrss.se/dramas/hk.jpg' />]]></description>
+		<guid isPermaLink="false">dramas:hke</guid>
+		<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+		<itunes:image href="https://allrss.se/dramas/play.png"/>
+	</item>						
+  </channel></rss>
